@@ -1,5 +1,6 @@
 # DECI Adventure Game Final Project
-This repository hosts the code and docs for a text-based adventure game. Developed as the final project for the DECI Program Level 2, it offers an immersive experience with dynamic scenarios and outcomes, showcasing proficiency in Python and game design.
+This repository contains the source code and documentation for a text-based adventure game developed as part of the Digital Egypt Cubs Initiative (DECI) Program Level 2. Created using Python, the game showcases proficiency in programming concepts such as loops, functions, if conditions, lists, tuples, dictionaries, and more. Additionally, it demonstrates the developer's skills in time management and efficient problem-solving. The project offers valuable practical experience and an opportunity to apply and expand programming skills.
+.
 
 ## Overview
 
